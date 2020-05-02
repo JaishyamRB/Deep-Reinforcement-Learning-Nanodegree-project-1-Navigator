@@ -14,6 +14,7 @@ Parameters used in DQN algorithm:
 - Starting epsilion: 1.0
 - Ending epsilion: 0.01
 - Epsilion decay rate: 0.999
+- Gamma: 0.99
 
 ## Results
 
