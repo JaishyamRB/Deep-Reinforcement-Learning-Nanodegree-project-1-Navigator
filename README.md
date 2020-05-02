@@ -1,6 +1,6 @@
-# Unity Banana Navigation
+# Deep Reinforcement Learning Nanodegree project 1: Unity Navigator
 
-![banana](images/banana-intro.gif)
+
 
 ## Project details
 
