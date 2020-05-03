@@ -31,7 +31,9 @@ Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.z
 
 Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip
 
-Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip Download or clone this repo and run the command in your terminal `pip install requirement.txt` Finally run this command `pip -q install ./python`
+Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip 
+
+Download or clone this repo and run the command in your terminal `pip install requirement.txt` Finally run this command `pip -q install ./python`
 
 after installing python dependencies. Then you should be able to run `jupyter notebook` and view `Solution.ipynb`. File `model.py` contains neural network class used as a Q function and file `dqn_agent.py` contains agent code.
 
