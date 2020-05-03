@@ -1,6 +1,6 @@
 # Unity Banana Navigation
 
-![banana](images/banana-intro.gif)
+
 
 ## Project details
 
