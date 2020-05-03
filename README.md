@@ -23,15 +23,15 @@ That means we work with state vector containing 37 continous values and 4 discre
 
 - Before getting into the project there are certain dependencies to be met. Make sure you have python 3.6 (https://www.python.org/downloads/release/python-3610/) installed and virtual environment.
 
-Unity environment has to be installed on your system 
+- Unity environment has to be installed on your system 
 
-  - Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
+   Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
 
-  - Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
+   Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
 
-  - Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip
+   Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip
 
-  - Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip 
+   Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip 
 
 - Download or clone this repo and run these commands in your terminal:
 
