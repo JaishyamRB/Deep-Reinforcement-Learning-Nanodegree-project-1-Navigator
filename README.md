@@ -19,6 +19,17 @@ Unity brain name: BananaBrain
 
 That means we work with state vector containing 37 continous values and 4 discrete actions representing moves (forward, backward, turn left, turn right). The environment is considered solved when agents reaches average score of 13.0 on 100 consecutive episodes.
 
+## Getting Started
+
+-Before getting into the project there are certain dependencies to be met. Make sure you have python 3.6 (https://www.python.org/downloads/release/python-3610/) installed and virtual environment.
+-Unity has to be installed on your system 
+  -Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
+  -Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
+  -Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip
+  -Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip windows 64-bit users can find the unity environment in this repository.
+ -Download or clone this repo and run the command in your terminal `pip install requirement.txt`
+ -Finally run this command `pip -q install ./python`
+
 ## Instructions
 
 Run `Soultion.ipynb` for further details.
