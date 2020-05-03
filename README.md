@@ -26,9 +26,9 @@ That means we work with state vector containing 37 continous values and 4 discre
   -Linux: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip
   -Mac OSX: https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip
   -Windows (32-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip
-  -Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip windows 64-bit users can find the unity environment in this repository.
- -Download or clone this repo and run the command in your terminal `pip install requirement.txt`
- -Finally run this command `pip -q install ./python`
+  -Windows (64-bit): https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip 
+-Download or clone this repo and run the command in your terminal `pip install requirement.txt`
+-Finally run this command `pip -q install ./python`
 
 ## Instructions
 
