@@ -21,7 +21,7 @@ That means we work with state vector containing 37 continous values and 4 discre
 
 ## Getting started
 
-1. Before getting into the project there are certain dependencies to be met. Make sure you have python 3.6 (https://www.python.org/downloads/release/python-3610/) installed and virtual environment.
+1. Before getting into the project there are certain dependencies to be met. Make sure you have [python 3.6]( https://www.python.org/downloads/release/python-3610/) installed and virtual environment.
 
 2. Unity environment has to be installed on your system 
 
@@ -38,7 +38,6 @@ That means we work with state vector containing 37 continous values and 4 discre
 ```
 pip install requirement.txt
 pip -q install ./python
-
 ```
 
 4. after installing python dependencies. Then you should be able to run `jupyter notebook` and view `Solution.ipynb`. File `model.py` contains neural network class used as a Q function and file `dqn_agent.py` contains agent code.
